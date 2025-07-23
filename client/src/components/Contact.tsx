@@ -59,7 +59,7 @@ const Contact = () => {
   async function onSubmit(values: z.infer<typeof formSchema>) {
     setIsSubmitting(true);
     try {
-      await fetch("http://localhost:8000/api/mailSend", {
+      await fetch(`${import.meta.env.VITE_MAIL_SEND_ENDPOINT}/api/mailSend`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
