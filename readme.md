@@ -69,7 +69,7 @@ Portfolio of sudip/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sudip-2/vibrant-creator-portal.git
+   git clone https://github.com/Sudip-2/Portfolio-site.git
    cd "Portfolio of sudip"
    ```
 
