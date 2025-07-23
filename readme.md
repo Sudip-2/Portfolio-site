@@ -2,6 +2,9 @@
 
 A modern, responsive portfolio website built with React (Frontend) and Node.js/Express (Backend) featuring a contact form with email functionality.
 
+## 🔗 Live Demo
+**[View Live Portfolio →](https://sudippaul-dev.vercel.app/)**
+
 ![Portfolio Preview](./client/public/open-graph.png)
 
 ## ✨ Features
@@ -194,7 +197,7 @@ Send email through contact form
 
 **Sudip**
 - GitHub: [@Sudip-2](https://github.com/Sudip-2)
-- Portfolio: [Your Portfolio URL]
+- Portfolio: [Live Link](https://sudippaul-dev.vercel.app/)
 
 ## 🙏 Acknowledgments
 
